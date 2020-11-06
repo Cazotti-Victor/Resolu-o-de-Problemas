@@ -1,4 +1,4 @@
-# Resolucao-de-Problemas
+# Resolução-de-Problemas
 
 ## Equipe:
 <p>Luis A. G. dos Santos - 256647</br>
