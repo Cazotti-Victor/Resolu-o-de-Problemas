@@ -13,6 +13,7 @@ Vitor Henrique da Silva - 195206</p>
 [Abrir o Exercício 05 com Colaboratory](https://colab.research.google.com/drive/1b0XE8H3Rk5btroewtPJ-6VOCumdPnJtu)<br>
 [Abrir o Exercício 06 com Colaboratory](https://drive.google.com/file/d/1ahA81wmfDK4_nNpesiOI3q4U5nGQIggD/view?usp=sharing)<br>
 [Abrir o Exercício 07 com Colaboratory](https://drive.google.com/file/d/1WnweWv07PVroUPP1k5C-UgSjWOP6x4-O/view?usp=sharing)<br>
+[Abrir o Exercício 08 com Colaboratory](https://drive.google.com/file/d/1Q2B7jNIJUyAnFeQJqjohnjhskA-ikCyT/view?usp=sharing)<br>
 
 
 
